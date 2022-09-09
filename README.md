@@ -1,7 +1,32 @@
 
-
 ![Behance Banner](https://user-images.githubusercontent.com/111923574/189431357-85b2463c-7656-47f7-af2e-9d12c44aa0eb.png)
 
-I'm Briva Hamisi from Nairobi - Kenya, and I do Android Development, Web Development, Graphics Design and Photography. I really enjoy learning languages and frameworks like React and Django and Kotlin, as well as working with Python Algorithms. I also enjoy wireframing, UI, UX, and Design in general. You can check my twitter at https://twitter.com/hamisi_briva linked in at https://www.linkedin.com/in/briva-hamisi/ Behance: https://www.behance.net/brivahamisi Dribbble at https://dribbble.com/_HamisiBriva
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrivaHamisi)](https://github.com/anuraghazra/github-readme-stats)
+### Hi there 👋, my name is Briva Hamisi
+#### I am Computer Science Student, Graphics Designer and Photographer
+![I am Computer Science Student, Graphics Designer and Photographer]
+
+I do Android Development, Web Development, Graphics Design, and Photography. I really enjoy learning languages and frameworks like React and Django and Kotlin, as well as working with Python Algorithms. I also enjoy wireframing, UI, UX, and Design in general.
+
+Skills: Android - Kotlin / React / Python Django / HTML / CSS/ Flutter
+
+- I’m currently working on Android with Kotlin and Wed development with Django and React 
+- I’m currently learning React Material UI 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/BrivaHamisi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/briva-hamisi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/hamisi_briva)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/hamisi_briva/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/hamisi_briva)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=BrivaHamisi)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrivaHamisi)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=BrivaHamisi&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=BrivaHamisi)  
+
+![GitHub metrics](https://metrics.lecoq.io/BrivaHamisi)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=BrivaHamisi)  
+
+![Profile views](https://gpvc.arturio.dev/BrivaHamisi)  
+

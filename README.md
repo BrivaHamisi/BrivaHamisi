@@ -9,7 +9,7 @@ I do Android Development, Web Development, Graphics Design, and Photography. I r
 Android - Kotlin / React / Python Django / HTML / CSS/ Laravel
 
 - I’m currently working on Android with Kotlin and Web development with Django, React and Laravel 
-- I’m currently learning Lravel
+- I’m currently learning Laravel
 
 ## Connect with Me
 

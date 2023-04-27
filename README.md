@@ -1,15 +1,15 @@
 ![Behance Banner](https://user-images.githubusercontent.com/111923574/189431357-85b2463c-7656-47f7-af2e-9d12c44aa0eb.png)
 
 # Briva Hamisi
-I am Computer Science Student, Graphics Designer and Photographer
+I am a Software Developer,Creative Graphics,Visual Artist Designer and Photographer
 
-I do Android Development, Web Development, Graphics Design, and Photography. I really enjoy learning languages and frameworks like React and Django and Kotlin, as well as working with Python Algorithms. I also enjoy wireframing, UI, UX, and Design in general.
+I do Android Development, Web Development, Graphics Design, and Photography. I really enjoy learning languages and frameworks like React and Django and Kotlin,Laravel as well as working with Python Algorithms. I also enjoy wireframing, UI, UX, and Design in general.
 
 ## Skills: 
-Android - Kotlin / React / Python Django / HTML / CSS/ Flutter
+Android - Kotlin / React / Python Django / HTML / CSS/ Laravel
 
-- I’m currently working on Android with Kotlin and Wed development with Django and React 
-- I’m currently learning React Material UI 
+- I’m currently working on Android with Kotlin and Web development with Django, React and Laravel 
+- I’m currently learning Lravel
 
 ## Connect with Me
 

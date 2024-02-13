@@ -1,5 +1,5 @@
 # Briva Hamisi
-I am a Software Developer,Creative Graphics,Visual Artist Designer and Photographer
+I am a Software Developer, Creative Graphics, Visual Artist Designer and Photographer
 
 I do Android Development, Web Development, Graphics Design, and Photography. I really enjoy learning languages and frameworks like React and Django and Kotlin,Laravel as well as working with Python Algorithms. I also enjoy wireframing, UI, UX, and Design in general.
 

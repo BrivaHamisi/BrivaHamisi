@@ -13,5 +13,16 @@ Android - Kotlin / React / Python Django / HTML / CSS/ Laravel
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/BrivaHamisi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/briva-hamisi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/hamisi_briva)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/hamisi_briva/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/hamisi_briva)  
 
+## Stats
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=BrivaHamisi&show_icons=true&theme=radical"/>
+<img align="left" width="47%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BrivaHamisi&theme=radical"/>
+<img align="left" width="47%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BrivaHamisi&theme=radical&utcOffset=8"/>
+<img align="left" width="47%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BrivaHamisi&theme=default"/>
+
+
+
+
+
 
 

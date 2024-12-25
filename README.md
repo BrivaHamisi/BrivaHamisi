@@ -9,10 +9,6 @@ Android - Kotlin / React / Python Django / HTML / CSS/ Laravel
 - I’m currently working on Android with Kotlin and Web development with Django, React and Laravel 
 - I’m currently learning Laravel, React and Jetpack Compose(Kotlin)
 
-## Connect with Me
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/BrivaHamisi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/briva-hamisi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/hamisi_briva)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/hamisi_briva/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/hamisi_briva)  
-
 
 
 

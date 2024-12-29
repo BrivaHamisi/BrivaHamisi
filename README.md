@@ -7,8 +7,7 @@ I do Android Development, Web Development, Graphics Design, and Photography. I r
 Android - Kotlin / React / Python Django / HTML / CSS/ Laravel
 
 - I’m currently working on Android with Kotlin and Web development with Django, React and Laravel 
-- I’m currently learning Laravel, React and Jetpack Compose(Kotlin)
-
+- I’m currently learning Laravel, Flutter, React and Jetpack Compose(Kotlin)
 
 
 
